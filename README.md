@@ -33,3 +33,6 @@ This is an example of showing text with an *asterisk* that is not italized, exam
 [docker](https//www.docker.com/)
 **Note** If we want to add a title tooltip, add a space inside a parenthesis with quotes to display balloon tip
 [docker](https//www.docker.com/ "docker-tooltip")
+
+<!--Image Display-->
+![THis is an image of a cat](https://static.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg)
