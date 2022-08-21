@@ -27,3 +27,7 @@ This is an example of showing text with an *asterisk* that is not italized, exam
 
 <!--Block Quote-->
 >This is going to be displayed as a quote with a background and a line on the left side
+
+<!--Creating links using markdown-->
+**Note** The text that will go with the links should be in brackets and the inks in parenthesis.
+[docker](https//www.docker.com/)
