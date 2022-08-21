@@ -11,3 +11,7 @@
 <!--Italics-->
 _This is an italic text using underscores._
 *This is an italic text using asterisks*
+
+<!--Strong-->
+This will look bold style text **Strong**
+This will look b old style text __Strong__
