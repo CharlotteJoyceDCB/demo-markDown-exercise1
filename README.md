@@ -21,3 +21,6 @@ Using triple hypes will be able to create horizontal rules to separate content
 ---
 Using triple hypes will be able to create horizontal rules to separate content
 ___
+
+<!--Escape character using backslash-->
+This is an example of showing text with an "asterisk' that is not italized, example \*asterisk*
