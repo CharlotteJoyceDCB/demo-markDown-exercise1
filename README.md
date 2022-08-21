@@ -19,3 +19,5 @@ This will look bold style text __Strong__
 <!--Horizontal Rule-->
 Using triple hypes will be able to create horizontal rules to separate content
 ---
+Using triple hypes will be able to create horizontal rules to separate content
+___
