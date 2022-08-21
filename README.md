@@ -1,6 +1,6 @@
 # MarkdownDemo.md
 
-<--Headings-->
+<!--Headings-->
 # Heading1
 ## Heading2
 ### Heading3
