@@ -15,3 +15,7 @@ _This is an italic text using underscores._
 <!--Strong-->
 This will look bold style text **Strong**
 This will look bold style text __Strong__
+
+<!--Horizontal Rule-->
+Using triple hypes will be able to create horizontal rules to separate content
+---
