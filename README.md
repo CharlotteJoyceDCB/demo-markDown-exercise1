@@ -24,3 +24,6 @@ ___
 
 <!--Escape character using backslash-->
 This is an example of showing text with an *asterisk* that is not italized, example \*asterisk*
+
+<!--Block Quote-->
+>This is going to be displayed as a quote with a background and a line on the left side
