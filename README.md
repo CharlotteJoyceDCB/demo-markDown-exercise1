@@ -8,3 +8,6 @@
 ##### Heading5
 ###### Heading6
 
+<!--Italics-->
+_This is an italic text using underscores._
+*This is an italic text using asterisks*
